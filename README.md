@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Programing
 - 💞️ I’m looking to collaborate on Front-End
 - 📫 How to reach me E.always00524@gmail.com
-- 😄 Pronouns: 일개미
+- 😄 Pronouns: 성실한 다람쥐
 - ⚡ Fun fact: I like walking
 
 <!---
