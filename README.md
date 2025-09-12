@@ -14,16 +14,12 @@
 <div align="center"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> </div>
 
 
-😄 ESFJ <br /> 
-👀 I’m interested in Food <br />
-🌱 I’m currently learning Programing <br />
-💞️ I’m looking to collaborate on Front-End <br />
-😄 Pronouns: 성실한 다람쥐 <br />
-⚡ Fun fact: I like walking <br />
-
 <br />
 
-![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=minji-kim0524&show_icons=true&count_private=true)
+<div align="center"><img src="https://ghchart.rshah.org/minji-kim0524" /></div>
+<br />
+
+![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=minji-kim0524&show_icons=true&count_private=true&theme=transparent)
 
 
 <!---
