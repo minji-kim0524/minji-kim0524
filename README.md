@@ -19,11 +19,9 @@
 
 
 <br />
+<img src="https://ghchart.rshah.org/minji-kim0524" />
 
-<div align="center"><img src="https://ghchart.rshah.org/minji-kim0524" /></div>
-<br />
-
-![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=minji-kim0524&show_icons=true&count_private=true&theme=transparent)
+[![Minji's GitHub stats](https://github-stats-extended.vercel.app/api?username=minji-kim0524)](https://github.com/stats-organization/github-stats-extended)
 
 
 <!---
