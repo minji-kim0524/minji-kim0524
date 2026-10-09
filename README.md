@@ -23,6 +23,8 @@
 
 [![Minji's GitHub stats](https://github-stats-extended.vercel.app/api?username=minji-kim0524)](https://github.com/stats-organization/github-stats-extended)
 
+![Dreamhack Stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=동그람쥐)
+
 
 <!---
 minji-kim0524/minji-kim0524 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
