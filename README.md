@@ -23,6 +23,8 @@
 
 [![Minji's GitHub stats](https://github-stats-extended.vercel.app/api?username=minji-kim0524)](https://github.com/stats-organization/github-stats-extended)
 
+[![깃허브 MBTI](https://github-mbti-whoami.vercel.app/api/card/minji-kim0524)](https://github-mbti-whoami.vercel.app)
+
 ![Dreamhack Stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=동그람쥐)
 
 
